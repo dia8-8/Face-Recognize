@@ -45,12 +45,20 @@ Open your JFrame drag KGradientPanel to it and set the following properties in t
 ### Project Images
 
 * Login
+![](ss/Picture1.png)
 * Main Menu
+![](ss/Picture2.png)
 * Settings
+![](ss/Picture3.png)
 * Add Student
+![](ss/Picture4.png)
 * Open Camera
+![](ss/Picture5.png)
 * Recognize Face
+![](ss/Picture6.png)
 * Fetch Data
+![](ss/Picture7.png)
 * Edit Data
+![](ss/Picture8.png)
 * Printed Data
-
+![](ss/Picture9.png)
