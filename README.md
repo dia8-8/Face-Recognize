@@ -21,6 +21,7 @@ Netbeans 8.2 or greater
 ```
 In the project there is a file called: facial_recognition.sql, create a database named "facial_recognition" and import this file.
 Login: admin, admin
+Note: you may need to change a little in the code the database path and other thing...
 ```
 
 ## Libs
