@@ -36,9 +36,15 @@ FFMPEG
 JavaCPP
 JavaCV-plataform
 JavaCV
+OpenCV
 OpenCV-plataform
+OpenCV-Windows-x86
 OpenCV-Windows-x86_64
 OpenCV
+Openlabs
+Openlabs-platform
+Openlabs-windowsx86_64
+
 ```
 ### Installing KGrandient
 
